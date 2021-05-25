@@ -1,0 +1,8 @@
+<html>
+<body>
+<h1>WELCOME TO {{user}} </h1>
+This is sample mail to Mr/Mrs/Ms. {{firstname}} - {{lastname}} <br/>
+<b>Thank you very much.</b>
+Date : {{date}}
+</body>
+</html>
